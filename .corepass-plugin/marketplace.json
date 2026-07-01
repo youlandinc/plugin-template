@@ -1,0 +1,26 @@
+{
+  "name": "corepass-plugin-starters",
+  "owner": {
+    "name": "Corepass",
+    "email": "plugins@corepass.com"
+  },
+  "metadata": {
+    "description": "Starter marketplace template for Corepass Code plugins",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "starter-simple",
+      "source": "./plugins/starter-simple",
+      "description": "Minimal plugin with rules and skills only",
+      "category": "productivity"
+    },
+    {
+      "name": "starter-advanced",
+      "source": "./plugins/starter-advanced",
+      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP",
+      "category": "development",
+      "featured": true
+    }
+  ]
+}

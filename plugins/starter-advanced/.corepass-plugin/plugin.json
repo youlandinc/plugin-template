@@ -1,0 +1,13 @@
+{
+  "name": "starter-advanced",
+  "displayName": "Advanced Starter",
+  "version": "0.1.0",
+  "description": "Full-featured Corepass Code plugin starter with rules, skills, agents, commands, hooks, and MCP.",
+  "author": {
+    "name": "Corepass",
+    "email": "plugins@corepass.com"
+  },
+  "license": "MIT",
+  "keywords": ["plugin", "rules", "skills", "agents", "commands", "hooks", "mcp"],
+  "logo": "assets/logo.svg"
+}

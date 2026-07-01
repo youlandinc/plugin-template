@@ -1,0 +1,13 @@
+{
+  "name": "starter-simple",
+  "displayName": "Simple Starter",
+  "version": "0.1.0",
+  "description": "Minimal Corepass Code plugin starter with rules and skills.",
+  "author": {
+    "name": "Corepass",
+    "email": "plugins@corepass.com"
+  },
+  "license": "MIT",
+  "keywords": ["plugin", "rules", "skills"],
+  "logo": "assets/logo.svg"
+}
